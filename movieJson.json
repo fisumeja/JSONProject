@@ -12,7 +12,7 @@
       "Title": "The Godfather",
       "Genre": "Crime",
       "Rating": "9.2",
-      "ImageName": "godfather.jpg",
+      "ImageName": "thegodfather.jpg",
       "TrailerURL": "https://www.youtube.com/watch?v=sY1S34973zA",
       "Description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son."
     },
@@ -44,7 +44,7 @@
       "Title": "The Dark Knight",
       "Genre": "Action",
       "Rating": "9.0",
-      "ImageName": "dark_knight.jpg",
+      "ImageName": "thedarkknight.jpg",
       "TrailerURL": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
       "Description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
     },
